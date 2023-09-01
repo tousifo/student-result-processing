@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "893225283426",
+    "project_id": "cgpa-dom",
+    "storage_bucket": "cgpa-dom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893225283426:android:d769e55b80922f2de9463b",
+        "android_client_info": {
+          "package_name": "com.chistia007.cgpadom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893225283426-givtm7vjl8caho4cuqbgqiafuvisgv2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chistia007.cgpadom",
+            "certificate_hash": "97f13bab4d1be93e1c92ac36f614437d68bff85a"
+          }
+        },
+        {
+          "client_id": "893225283426-fsanns30fhmh752rphc4v4ob1jsi785e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ2GIA0MGfEhIR4gzw-7PyBr8nsD4Y8Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893225283426-fsanns30fhmh752rphc4v4ob1jsi785e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
