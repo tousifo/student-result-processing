@@ -62,22 +62,22 @@ Welcome to the **Student Result Processing App**, designed to simplify CGPA calc
  
 ###Screenshots
 <p align="center">
-  <img src="https://github.com/tousifo/student-result-processing/assets/68165515/b06851c6-5148-40c4-9178-b9d5c969ad0a" alt="App Screenshot" width="400" height="300">
+  <table>
+    <tr>
+      <td><img src="https://github.com/tousifo/student-result-processing/assets/68165515/b06851c6-5148-40c4-9178-b9d5c969ad0a" alt="Screenshot 1" width="200" height="350"></td>
+      <td><img src="https://github.com/tousifo/student-result-processing/assets/68165515/d3bf8c3a-b3b1-4519-8fa8-cbf2761478b3" alt="Screenshot 2" width="200" height="350"></td>
+      <td><img src="https://github.com/tousifo/student-result-processing/assets/68165515/f669c1f8-f371-420d-807a-2ea6ac2ee8e3" alt="Screenshot 3" width="200" height="350"></td>
+    </tr>
+  </table>
 </p>
 <p align="center">
-  <img src="https://github.com/tousifo/student-result-processing/assets/68165515/d3bf8c3a-b3b1-4519-8fa8-cbf2761478b3" alt="App Screenshot" width="400" height="300">
-</p>
-<p align="center">
-  <img src="https://github.com/tousifo/student-result-processing/assets/68165515/f669c1f8-f371-420d-807a-2ea6ac2ee8e3" alt="App Screenshot" width="400" height="300">
-</p>
-<p align="center">
-  <img src="https://github.com/tousifo/student-result-processing/assets/68165515/309f1b3c-dff1-4353-88f9-f47a54bec75c" alt="App Screenshot" width="400" height="300">
-</p>
-<p align="center">
-  <img src="https://github.com/tousifo/student-result-processing/assets/68165515/cfe9aa71-0011-4246-b371-47e1058ac734" alt="App Screenshot" width="400" height="300">
-</p>
-<p align="center">
-  <img src="https://github.com/tousifo/student-result-processing/assets/68165515/7730bfda-8d9b-4f01-8523-99c69ac1b66f" alt="App Screenshot" width="400" height="300">
+  <table>
+    <tr>
+      <td><img src="https://github.com/tousifo/student-result-processing/assets/68165515/309f1b3c-dff1-4353-88f9-f47a54bec75c" alt="Screenshot 4" width="200" height="350"></td>
+      <td><img src="https://github.com/tousifo/student-result-processing/assets/68165515/cfe9aa71-0011-4246-b371-47e1058ac734" alt="Screenshot 5" width="200" height="350"></td>
+      <td><img src="https://github.com/tousifo/student-result-processing/assets/68165515/7730bfda-8d9b-4f01-8523-99c69ac1b66f" alt="Screenshot 6" width="200" height="350"></td>
+    </tr>
+  </table>
 </p>
 
 ## :wrench: Development
