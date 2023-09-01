@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="app-logo.png" alt="App Logo" width="100">
-</p>
+  <img src="https://github.com/tousifo/student-result-processing/assets/68165515/5e3beea2-c6b2-4761-96e7-f473c3c53935" alt="App Logo" width="100">
+</p> 
 
 # Student Result Processing App
 
