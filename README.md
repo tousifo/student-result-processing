@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tousifo/student-result-processing/assets/68165515/5e3beea2-c6b2-4761-96e7-f473c3c53935" alt="App Logo" width="100">
+  <img src="https://github.com/tousifo/student-result-processing/assets/68165515/183b3ebf-f1a4-4b44-8112-e92669f2823a" alt="App Logo" width="100">
 </p> 
 
 # Student Result Processing App
@@ -59,6 +59,14 @@ Welcome to the **Student Result Processing App**, designed to simplify CGPA calc
   - Use the "Repeat Calculation" option if you need to re-run CGPA calculations for any reason.
   - Visit the "Update Dashboard" tab to modify and update your CGPA records.
   - Logout securely from your account when done.
+ 
+###Screenshots
+![Screenshot_2023-09-01-23-00-11-724_com chistia007 cgpadom-edit](https://github.com/tousifo/student-result-processing/assets/68165515/b06851c6-5148-40c4-9178-b9d5c969ad0a)  ![Screenshot_2023-09-01-23-00-21-414_com chistia007 cgpadom-edit](https://github.com/tousifo/student-result-processing/assets/68165515/d3bf8c3a-b3b1-4519-8fa8-cbf2761478b3)
+![Screenshot_2023-09-01-23-00-29-875_com chistia007 cgpadom-edit](https://github.com/tousifo/student-result-processing/assets/68165515/f669c1f8-f371-420d-807a-2ea6ac2ee8e3)
+![Screenshot_2023-09-01-23-00-39-705_com chistia007 cgpadom-edit](https://github.com/tousifo/student-result-processing/assets/68165515/cfe9aa71-0011-4246-b371-47e1058ac734)
+![Screenshot_2023-09-01-23-00-59-190_com chistia007 cgpadom-edit](https://github.com/tousifo/student-result-processing/assets/68165515/309f1b3c-dff1-4353-88f9-f47a54bec75c)
+![Screenshot_2023-09-01-23-00-49-369_com chistia007 cgpadom-edit](https://github.com/tousifo/student-result-processing/assets/68165515/7730bfda-8d9b-4f01-8523-99c69ac1b66f)
+
 
 ## :wrench: Development
 
