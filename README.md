@@ -82,7 +82,7 @@ Welcome to the **Student Result Processing App**, designed to simplify CGPA calc
 
 ## :wrench: Development
 
-This app is built using [Java]. Here's how you can get started with development.
+This app is built using [Java]
 
 ## :handshake: Contributing
 
