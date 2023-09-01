@@ -1,43 +1,39 @@
+<p align="center">
+  <img src="app-logo.png" alt="App Logo" width="100">
+</p>
 
 # Student Result Processing App
 
 Welcome to the **Student Result Processing App**, designed to simplify CGPA calculation and storage for students at Comilla University. This README provides an overview of the app's features, usage instructions, and development details.
 
-## Table of Contents
-- [Features](#features)
-- [Usage](#usage)
-- [Development](#development)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Features
+## :rocket: Features
 
 ### General Features
 
-- **Result Processing**: Calculate your CGPA without the need to log in.
-- **User Authentication**: Secure login and registration options for Comilla University students.
-- **Profile Storage**: Store and manage your CGPA records securely.
+- :heavy_check_mark: **Result Processing**: Calculate your CGPA without the need to log in.
+- :lock: **User Authentication**: Secure login and registration options for Comilla University students.
+- :file_folder: **Profile Storage**: Store and manage your CGPA records securely.
 
 ### For Registered Users
 
-- **Dashboard**: View your current CGPA at a glance.
-- **CGPA Calculator**: Calculate your CGPA with ease.
-- **Repeat Calculation**: Re-run CGPA calculations as needed.
-- **Update Dashboard**: Modify and update your CGPA data.
-- **Logout**: Securely log out from your account.
+- :bar_chart: **Dashboard**: View your current CGPA at a glance.
+- :1234: **CGPA Calculator**: Calculate your CGPA with ease.
+- :repeat: **Repeat Calculation**: Re-run CGPA calculations as needed.
+- :pencil2: **Update Dashboard**: Modify and update your CGPA data.
+- :outbox_tray: **Logout**: Securely log out from your account.
 
 ### Additional Pages
 
-- **Cou Student**: Information about registration and login for students.
-- **About Us**: Learn more about the creators of this app.
+- :bust_in_silhouette: **Cou Student**: Information about registration and login for students.
+- :information_source: **About Us**: Learn more about the creators of this app.
 
-## Usage
+## :computer: Usage
 
 ### Getting Started
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/tousifo/student-result-processing.git
+   git clone https://github.com/your-username/student-result-processing.git
    ```
 
 2. Navigate to the project directory.
@@ -54,7 +50,7 @@ Welcome to the **Student Result Processing App**, designed to simplify CGPA calc
    npm start
    ```
 
-### Usage Guidelines
+### :bulb: Usage Guidelines
 
 - To calculate your CGPA without logging in, visit the "Result Processing" tab.
 - For registered users:
@@ -64,12 +60,11 @@ Welcome to the **Student Result Processing App**, designed to simplify CGPA calc
   - Visit the "Update Dashboard" tab to modify and update your CGPA records.
   - Logout securely from your account when done.
 
-## Development
+## :wrench: Development
 
-This app is built using [Java Programming Language]. Here's how you can get started with development:
+This app is built using [Java]. Here's how you can get started with development.
 
-
-## Contributing
+## :handshake: Contributing
 
 Contributions to this project are welcome! To contribute, follow these steps:
 
@@ -78,5 +73,3 @@ Contributions to this project are welcome! To contribute, follow these steps:
 3. Make your changes and test thoroughly.
 4. Create a pull request with a clear description of your changes.
 
-
-Feel free to modify this README template to include specific details about your app's technologies, setup, and licensing. Additionally, don't forget to replace placeholder text with actual content and links relevant to your project.
