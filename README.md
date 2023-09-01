@@ -60,7 +60,7 @@ Welcome to the **Student Result Processing App**, designed to simplify CGPA calc
   - Visit the "Update Dashboard" tab to modify and update your CGPA records.
   - Logout securely from your account when done.
  
-###Screenshots
+### Screenshots
 <p align="center">
   <table>
     <tr>
